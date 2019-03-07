@@ -1,4 +1,4 @@
-class Heft < Formula
+class Myelin < Formula
   desc "Myelin.io command line interface"
   homepage "https://myelin.io"
   url "https://myelin-cli.storage.googleapis.com/cli-darwin/myelin"
