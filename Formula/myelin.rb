@@ -3,7 +3,7 @@ class Myelin < Formula
   homepage "https://myelin.io"
   url "https://myelin-cli.storage.googleapis.com/cli-darwin/myelin-v0.1.7.tar.gz"
   version "v0.1.7"
-  sha256 "fc938baa497f6a65924425d475b7f9eb7ab7d96c1b348a06bfe4c9bd53e64648"
+  sha256 "9f4c592e091eae5302dfaef6937769dfe7b7cdb3a2892a44ee37d3e482cbbb4a"
 
   def install
     bash_completion.install "myelin-completion.bash" => "myelin"
