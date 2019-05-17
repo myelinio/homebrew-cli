@@ -1,9 +1,9 @@
 class Myelin < Formula
   desc "Myelin.io command line interface"
   homepage "https://myelin.io"
-  url "https://myelin-cli.storage.googleapis.com/cli-darwin/myelin-v0.2.3.tar.gz"
-  version "v0.2.3"
-  sha256 "0e2d9a09e75806c9885e5e21a97ecd76c24c654ccb59af361db370345f9a3b8c"
+  url "https://myelin-cli.storage.googleapis.com/cli-darwin/myelin-v0.2.4.tar.gz"
+  version "v0.2.4"
+  sha256 "cac4d547c9806b26f4c9711cb0b3b4f757392e33020f0f95081273b67f5c25e3"
 
   def install
     bash_completion.install "myelin-completion.bash" => "myelin"
