@@ -1,4 +1,4 @@
-class Myelin@v025 < Formula
+class MyelinATv025 < Formula
   desc "Myelin.io command line interface"
   homepage "https://myelin.io"
   url "https://myelin-cli.storage.googleapis.com/cli-darwin/myelin-v0.2.5.tar.gz"
